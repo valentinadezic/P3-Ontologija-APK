@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ontologija</string>
+    <string name="REST_URL">https://oziz.ffos.hr/nastava20202021/vdezic_20/Ontologija/search/</string>
+    <string name="app_label">Ontologija</string>
+</resources>
